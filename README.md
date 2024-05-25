@@ -7,7 +7,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> Contact me on LinkedIn or ResearchGate for my professional profile and contact details, or read my works on Arxiv or Orcid. Feel free to reach out for collaborations, opportunities, or a friendly exchange of ideas! </p>
+<p> Feel free to connect with me on LinkedIn. You can also explore my work on ArXiv or ResearchGate. I’m open to collaborations, opportunities, and friendly exchanges of ideas! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/francesco-giuseppe-cordoni-009a1025a/">
     <img src="https://img.shields.io/badge/FrancescoCordoni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
